@@ -201,6 +201,7 @@ form, .content {
     margin: 3px;
 }
 .input-group input {
+    color: #000;
     height: 30%;
     width: 93%;
     padding: 5px 10px;
